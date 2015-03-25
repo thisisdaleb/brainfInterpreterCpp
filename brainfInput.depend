@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1427319178 source:d:\codefolder\cppprojects\codeblocks\brainfinput\brainfinput.cpp
+	"brainfinput.h"
+	<iostream>
+	<string>
+	"interpretcode.h"
+	<stdio.h>
+	<string.h>
+
+1427246841 d:\codefolder\cppprojects\codeblocks\brainfinput\brainfinput.h
+
+1427266896 source:d:\codefolder\cppprojects\codeblocks\brainfinput\interpretcode.cpp
+	"interpretcode.h"
+	"coderandomizer.h"
+	<iostream>
+	<string>
+	<vector>
+
+1427257033 d:\codefolder\cppprojects\codeblocks\brainfinput\interpretcode.h
+	<string>
+	<vector>
+
+1427319437 source:d:\codefolder\cppprojects\codeblocks\brainfinput\coderandomizer.cpp
+	"coderandomizer.h"
+	<iostream>
+	<vector>
+
+1427317465 d:\codefolder\cppprojects\codeblocks\brainfinput\coderandomizer.h
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
